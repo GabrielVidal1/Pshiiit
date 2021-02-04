@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 75a631c71416cc9468a33ba80fd7a722
+timeCreated: 1500132929
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Special Valentine
+  fontNames:
+  - Special Valentine
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: a85e2cfcbeb14a6418f6e5ea37acc8e6
+timeCreated: 1500132929
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: MADE Waffle Soft
+  fontNames:
+  - MADE Waffle Soft
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

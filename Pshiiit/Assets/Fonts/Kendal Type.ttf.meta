@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 849ba9a6a57789647b420e2a5e314d50
+timeCreated: 1500132929
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Kendal Type
+  fontNames:
+  - Kendal Type
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

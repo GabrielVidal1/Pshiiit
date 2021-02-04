@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 80687f46f507ec6418d06c8fb2be3ef4
+timeCreated: 1500132929
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Chesan
+  fontNames:
+  - Chesan
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 4803eb2167e0b614ea4b88e5b7f6c344, type: 3}
+  - {fileID: 12800000, guid: 7df66a4c561f533458d66a80b27232b0, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
